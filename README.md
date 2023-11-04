@@ -32,10 +32,9 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <br>
 
-   <img src="https://img.shields.io/badge/apachespark-25A1C?style=for-the-badge&logo=apachespark&logoColor=white"> 
-   <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apachespark-25A1C?style=for-the-badge&logo=apachespark&logoColor=white">    
   <img src="https://img.shields.io/badge/trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white"> 
-
   <br>
 
 
